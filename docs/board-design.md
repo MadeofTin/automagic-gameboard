@@ -11,5 +11,8 @@ Go is played on a 19x19 board. That means there are 361 different possible place
 ![Moving Stones](https://docs.google.com/drawings/d/1B0Mb0N61SC-gSdSWDhywrYtW_oFxCIIcdwqjedEiDIM/pub?w=650)
 
 
-## Pin Mechanism
+## The Challenge
+How can you individually control 7396 pins without 7396 motors?
+
+### Pin Mechanism
 ![Moving Pins](https://docs.google.com/drawings/d/14bEfK6NYotXaWkZ-BxQ3KW4m4vwG1d_WnZmKQ5pUg9k/pub?w=300)
